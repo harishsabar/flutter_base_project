@@ -5,8 +5,6 @@ import 'package:base_project/constanta/cons_size.dart';
 import 'package:base_project/constanta/cons_text.dart';
 import 'package:base_project/utils/util_preferences.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 
 import '../constanta/cons_color.dart';
 
